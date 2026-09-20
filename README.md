@@ -2,6 +2,8 @@
 
 一个纯前端实现、**零依赖、可离线运行**的本地小说阅读器。整个应用只有一个 `index.html` 文件，用浏览器打开即可使用。
 
+<img width="705" height="527" alt="界面" src="https://github.com/user-attachments/assets/1d0a1b70-457c-41a1-bede-833d8fef6b5c" />
+
 ## 使用方法
 
 1. 双击打开 `index.html`（推荐使用 Chrome / Edge / Firefox）。
